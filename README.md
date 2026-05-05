@@ -49,15 +49,19 @@ The objective of this project is to identify factors affecting patient satisfact
 ## ❓ Key Business Questions -
 
 **Q1. What is the main objective of this dashboard?**
+
 To analyze emergency room data and improve hospital efficiency.
 
 **Q2. Which KPI is most important and why?**
+
 Average waiting time, because it directly impacts patient satisfaction.
 
 **Q3. What key insight did you find?**
+
 There is a strong relationship between waiting time and patient satisfaction.
 
 **Q4. Which tool did you use for this project?**
+
 Microsoft Excel for data analysis and dashboard creation.
 
 ## 🚀 Conclusion
