@@ -70,5 +70,5 @@ This project demonstrates how data analysis and visualization can help improve h
 
 ## 📷 Dashboard Preview - 
 
-![Dashboard](dashboard/Hospital_Dashboard.png)
+![Dashboard](Hospital_Dashboard.png)
 
