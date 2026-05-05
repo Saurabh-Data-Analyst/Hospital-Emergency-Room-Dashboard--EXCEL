@@ -68,3 +68,7 @@ Microsoft Excel for data analysis and dashboard creation.
 
 This project demonstrates how data analysis and visualization can help improve healthcare services by optimizing operations and enhancing patient experience.
 
+## 📷 Dashboard Preview - 
+
+![Dashboard](dashboard/Hospital_Dashboard.png)
+
